@@ -11,16 +11,16 @@ Gaming 🎮
 
 ### 🌱 Technologies I'm currently working on
 #### Frontend
-HTML5
-CSS3
-JavaScript
+- HTML5
+- CSS3
+- JavaScript
 #### Backend
-Python
+- Python
 
 ### 🤔 I'm looking for help with
-API's
-SQL, Models and Migrations
-Pipelines CI/CD
+- API's
+- SQL, Models and Migrations
+- Pipelines CI/CD
 <!--
 **fabalvesfr/fabalvesfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
