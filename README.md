@@ -1,5 +1,5 @@
 ## Hi there 👋
-Former Chemical Engineer 👨‍🔬, I surrendered myself to my passion for coding and finally decided in 2023 to transition to the IT world, joining Open Classrooms' full stack web development apprenticeship program. 🌐💻
+Former Chemical Engineer 👨‍🔬, I surrendered to my passion for coding and finally decided in 2023 to transition to the IT world, joining Open Classrooms' full stack web development apprenticeship program. 🌐💻
 Here you'll see my self learning journey on Full Stack Web Development. 🚀📚✨
 
 Other than coding, I have a passion for:
