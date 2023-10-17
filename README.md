@@ -1,31 +1,35 @@
-## Hi there 👋
-Former Chemical Engineer 👨‍🔬, I surrendered to my passion for coding and finally decided in 2023 to transition to the IT world, joining Open Classrooms' full stack web development apprenticeship program. 🌐💻
-Here you'll see my self learning journey on Full Stack Web Development. 🚀📚✨
 
-Other than coding, I have a passion for:
-Languages (🇧🇷 🇺🇸 🇫🇷 🇪🇸)
-Travelling ✈️
-Networking 🗣💬
-Music 🎤
-Gaming 🎮
+## 👨🏻💻 console.log('Hello, world !'); 🌐
 
-🤔 I'm looking for help with
-API's
-SQL, Models and Migrations
-Pipelines CI/CD
+I'm Fabio, Web Developer freelance offering web integration services (content, graphical and functional components) according to responsive design and agile principles.
 
-### 🌱 Technologies I'm currently working on
-#### Frontend
-HTML5 / CSS3 / Bootstrap / JavaScript
-#### Backend
-Python / Flask / Jinja2 / SQL
+I fell in love with tech because the tech community has a unique mindset for continuous improvement and continuous learning, which resonates a lot with my very own mindset and work ethic.
 
-### 🤔 I'm looking for help with
-- API's
-- SQL, Models and Migrations
-- Pipelines CI/CD
+Plus, I am a very creative person and I love how creativity has a special place in this industry, as it is always seeking for better, more efficient, user-friendlier solutions.
 
-Feel free to contact me if you are interested in collaborating!
+Nothing makes me feel more accomplished than being a hand for my clients and help them thrive in their own businesses, as I see their success as my own.
+
+You are very welcomed to contact me if you are interested in collaborating, let's have a talk and see how I can help you. And check my GitHub page to follow my coding journey! 🚀
+https://github.com/fabalves
+
+
+### My background
+ 👨🏻💻Fullstack Web Development (Associate’s-level diploma - European Level 5) @ Open Classrooms - Paris, France
+👷🏻 MSc. Chemical Engineer graduate @ ENSCM - Montpellier, France
+✈ Avid traveler with 8+ years of experience living and working abroad
+🗣 🇺🇸 🇫🇷 🇪🇸 🇧🇷 and a little bit of 🇩🇪
+
+### 🧰My stack
+• Frontend: HTML5 / CSS3 / Bootstrap / JavaScript / React / AJAX
+• Backend: Python / Flask / Jinja2 / MySQL
+• Version control: Git / GitHub
+• Project Management: Agile / Scrum
+
+🤔 I'm interested in developing new skills in
+• API's
+• Models and Migrations
+• Cloud Computing and MultiCloud approach (AWS, Google Cloud, Terraform)
+
 <!--
 **fabalvesfr/fabalvesfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
