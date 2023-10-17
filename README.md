@@ -9,8 +9,7 @@ Plus, I am a very creative person and I love how creativity has a special place 
 
 Nothing makes me feel more accomplished than being a hand for my clients and help them thrive in their own businesses, as I see their success as my own.
 
-You are very welcomed to contact me if you are interested in collaborating, let's have a talk and see how I can help you. And check my GitHub page to follow my coding journey! 🚀
-https://github.com/fabalves
+You are very welcomed to contact me if you are interested in collaborating, let's have a talk and see how I can help you!
 
 
 ### My background
