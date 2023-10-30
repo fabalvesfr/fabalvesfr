@@ -13,8 +13,8 @@ You are very welcomed to contact me if you are interested in collaborating, let'
 
 
 ### My background
- 👨🏻💻Fullstack Web Development (Associate’s-level diploma - European Level 5) @ Open Classrooms - Paris, France
-👷🏻 MSc. Chemical Engineer graduate @ ENSCM - Montpellier, France
+ 👨🏻💻Fullstack Web Development (Associate’s-level diploma - European Level 5) @ Open Classrooms - Paris, France (ongoing)
+👷🏻 MSc. Chemical Engineer graduate @ ENSCM - Montpellier, France (Class of '22 Valedictorian)
 ✈ Avid traveler with 8+ years of experience living and working abroad
 🗣 🇺🇸 🇫🇷 🇪🇸 🇧🇷 and a little bit of 🇩🇪
 
