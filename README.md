@@ -1,19 +1,15 @@
 
 ## 👨🏻💻 console.log('Hello, world !'); 🌐
 
-I'm Fabio, Web Developer freelance offering web integration services (content, graphical and functional components) according to responsive design and agile principles.
+I'm Fabio, Web Developer with experience in web integration services (content, graphical and functional components) according to responsive design and agile principles.
 
 I fell in love with tech because the tech community has a unique mindset for continuous improvement and continuous learning, which resonates a lot with my very own mindset and work ethic.
 
 Plus, I am a very creative person and I love how creativity has a special place in this industry, as it is always seeking for better, more efficient, user-friendlier solutions.
 
-Nothing makes me feel more accomplished than being a hand for my clients and help them thrive in their own businesses, as I see their success as my own.
-
-You are very welcomed to contact me if you are interested in collaborating, let's have a talk and see how I can help you!
-
 
 ### My background
- 👨🏻💻Fullstack Web Development (Associate’s-level diploma - European Level 5) @ Open Classrooms - Paris, France (ongoing)
+ 👨🏻💻Fullstack Web Development (self-taught, ongoing)
 👷🏻 MSc. Chemical Engineer graduate @ ENSCM - Montpellier, France (Class of '22 Valedictorian)
 ✈ Avid traveler with 8+ years of experience living and working abroad
 🗣 🇺🇸 🇫🇷 🇪🇸 🇧🇷 and a little bit of 🇩🇪
